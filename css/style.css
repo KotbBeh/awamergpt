@@ -413,7 +413,8 @@ a, input, select, textarea, button {
     text-align: center;
 }
 .singleboot img{
-    width: 80px;
+    width: 50%;
+        margin-bottom: 25px;
 }
 hr{
     height: 2px !important;
