@@ -414,7 +414,7 @@ a, input, select, textarea, button {
 }
 .singleboot img{
     width: 50%;
-        margin-bottom: 25px;
+            margin: 20px 0;
 }
 hr{
     height: 2px !important;
@@ -450,6 +450,10 @@ hr{
       .center a{
         width: auto;
       }
+    .singleboot img{
+    width: 100%;
+            margin: 20px 0;
+}
 }
 
 @media (min-width: 768px) {
